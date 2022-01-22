@@ -3,10 +3,9 @@
 It's another purple-ish Visual Studio Code Theme
 
 ## Screenshots
-Midnight Black
 <br>
-![SS1!](https://github.com/ksckaan1/kpurple-vscode-theme/-/raw/main/img/theme1.png) <br> <br>
-![SS2!](https://github.com/ksckaan1/kpurple-vscode-theme/-/raw/main/img/theme2.png)
+![SS1!](https://raw.githubusercontent.com/ksckaan1/kpurple-vscode-theme/master/img/theme1.png) <br> <br>
+![SS2!](https://raw.githubusercontent.com/ksckaan1/kpurple-vscode-theme/master/img/theme2.png)
 
 ## Recommended settings.json
 
