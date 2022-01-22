@@ -1,0 +1,40 @@
+{
+	"name": "kpurple",
+	"displayName": "kPurple Theme",
+	"description": "Purple Theme for Visual Studio Code",
+	"version": "1.0.0",
+	"publisher": "ksckaan1",
+	"license": "MIT",
+	"engines": {
+		"vscode": "^1.60.0"
+	},
+	"icon": "img/logo.png",
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"kpurple",
+		"dark",
+		"purple",
+		"theme"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ksckaan1/kpurple-vscode-theme"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "kPurple",
+				"uiTheme": "vs-dark",
+				"path": "./themes/kPurple.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "13059c29-0548-499e-bef4-4a2d62dc7655",
+		"publisherId": "6eadb9c8-7e82-4680-80a9-6e9f9a91f5a1",
+		"publisherDisplayName": null,
+		"installedTimestamp": 1642866667991
+	}
+}
