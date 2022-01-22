@@ -4,8 +4,8 @@ It's another purple-ish Visual Studio Code Theme
 
 ## Screenshots
 <br>
-![SS1](https://raw.githubusercontent.com/ksckaan1/kpurple-vscode-theme/master/img/theme1.png) <br> <br>
-![SS2](https://raw.githubusercontent.com/ksckaan1/kpurple-vscode-theme/master/img/theme2.png)
+![SS1!](https://raw.githubusercontent.com/ksckaan1/kpurple-vscode-theme/master/img/theme1.png "Screenshot") <br> <br>
+![SS2!](https://raw.githubusercontent.com/ksckaan1/kpurple-vscode-theme/master/img/theme2.png "Screenshot")
 
 ## Recommended settings.json
 
